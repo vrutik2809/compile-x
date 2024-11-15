@@ -1,10 +1,10 @@
 <div align="center"><img src="./other/logo-name.png"  alt="logo" width=450px></div>
-<div align="center"><b>Sanboxed Code Execution</b></div>
+<div align="center"><b>Sandboxed Code Execution</b></div>
 <br>
 
 # CompileX  
 
-Isolated code execution environment for multiple programming languages like Java, C++, and Python.  
+Sandboxed code execution environment for multiple programming languages like Java, C++, and Python.  
 
 ---
 
